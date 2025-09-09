@@ -16,7 +16,7 @@ export CURSOR_PROMPT="Create a Java Hello World program and verify the results c
 export CURSOR_REPOSITORY="https://github.com/jabrena/cursor-background-agent-api-java-hello-world"
 
 # Optional: Specify model (default is "Auto")
-export CURSOR_MODEL="sonnet-4"
+export CURSOR_MODEL="claude-4-sonnet"
 ```
 
 ### 3. Run the Script
